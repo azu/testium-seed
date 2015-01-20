@@ -83,6 +83,33 @@ npm test
 mocha --require intelli-espower-loader test/
 ```
 
+## Advanced: use Chrome for E2E testing
+
+1: You put `browser = "chrome"` to `.testiumrc`
+
+```
+; defaults to false, `npm start`s the app
+launch = true
+browser = "chrome"
+```
+
+2: Download chromium-driver
+
+```
+$ ./node_modules/.bin/testium --download-selenium
+```
+
+3: Run test
+
+```
+npm test
+```
+
+
+![chrome-e2e](http://gyazo.com/3ff16c0473b5eb3729d26c6401a2fe7b.gif)
+
+Easy to Run!
+
 ## Contributing
 
 1. Fork it!
