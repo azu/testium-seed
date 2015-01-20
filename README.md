@@ -83,6 +83,8 @@ npm test
 mocha --require intelli-espower-loader test/
 ```
 
+![Success tests](http://monosnap.com/image/hwVhdEMWlrgafoUNOq8hUKOePaFRNH.png)
+
 ## Advanced: use Chrome for E2E testing
 
 1: You put `browser = "chrome"` to `.testiumrc`
