@@ -1,6 +1,6 @@
 # testium-seed [![Build Status](https://travis-ci.org/azu/testium-seed.svg)](https://travis-ci.org/azu/testium-seed)
 
-Example project for testium(minimum setup).
+Example project for [testium](https://github.com/groupon-testium/testium "testium")(minimum setup).
 
 [![site](http://gyazo.com/1b73573394ce9fa9e674c2f10d82943a.gif)](http://azu.github.io/testium-seed/)
 
