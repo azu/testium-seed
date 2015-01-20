@@ -1,0 +1,2 @@
+; defaults to false, `npm start`s the app
+launch = true

@@ -1,0 +1,31 @@
+{
+  "name": "testium-seed",
+  "description": "Example project for testium.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/azu/testium-seed/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/testium-seed.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "mocha test/*.js"
+  },
+  "directories": {
+    "test": "test/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/testium-seed/issues"
+  },
+  "devDependencies": {
+    "http-server": "^0.7.4",
+    "mocha": "^2.1.0",
+    "phantomjs": "^1.9.13",
+    "power-assert": "^0.10.1",
+    "intelli-espower-loader": "^0.6.0",
+    "testium": "^2.3.0"
+  }
+}
