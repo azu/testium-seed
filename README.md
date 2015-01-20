@@ -52,7 +52,7 @@ Please see [test/app-test.js](test/app-test.js)
 
 snippet
 
-```
+```javascript
 "use strict";
 var injectBrowser = require('testium/mocha');
 var assert = require('power-assert');
