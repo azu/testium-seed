@@ -1,4 +1,4 @@
-# testium-seed
+# testium-seed [![Build Status](https://travis-ci.org/azu/testium-seed.svg)](https://travis-ci.org/azu/testium-seed)
 
 Example project for testium(minimum setup).
 
