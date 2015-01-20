@@ -2,6 +2,8 @@
 
 Example project for testium(minimum setup).
 
+[![site](http://gyazo.com/1b73573394ce9fa9e674c2f10d82943a.gif)](http://azu.github.io/testium-seed/)
+
 ![screenshot-error](http://monosnap.com/image/FA1NZW9vzQilkGMOLOBSrkp9ZdA56H.png)
 
 ## Installation
